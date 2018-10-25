@@ -1,0 +1,38 @@
+﻿  Hero.cpp
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(33): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(35): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(37): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(39): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(135): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(145): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(159): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(180): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(187): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(201): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(215): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(222): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(229): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(236): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(243): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(257): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(264): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(271): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\desktop\project1.2\project1\hero.cpp(279): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Matthew\Desktop\Project1.2\Debug\Project1.exe
